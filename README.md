@@ -2,6 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## Feedback
+
+If you have any feedback, please reach out to us at umarashraf7827@gmail.com
+
+## Developer
+
+- [@Umar Ashraf](https://github.com/UmarAxhraf/)
+
+
+# Project Md File ⬇️ 
+
 First, run the development server:
 
 ```bash
